@@ -15,6 +15,8 @@ V  - Links
 
 #I - Introdução#
 
+The project aims to recalculate, in real time, the time that each signal will be open according to the flow in each of the roads of an intersection. This calculation will be performed at the end of each traffic light cycle, thus dynamically changing the time that each traffic light will be open. For this, we will use sensors that will capture the presence of cars on the roads, thus being able to account for the flow and determine, in an efficient way, a better distribution of time at traffic lights during various moments of daily life. The sensors and traffic lights will be integrated with the computer system, which will make the decisions.
+
 Esse projeto foi elaborado para ser usado com auxílio de um arduino, logo, para o projeto funcionar será preciso ter em mãos um arduino, sensores de distância e um computador compratível com a IDE instalada (link está na seção Links), além de outros componentes, como fios, LEDs e resistências.
 
 #II - Códigos#
